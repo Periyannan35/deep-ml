@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 8 problems · 0 labs · 1 math
+**10** solved · 9 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-11-16 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-11-18 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-11-01 | [solution](problems/0083-dot-product-calculator) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-20 | [solution](problems/0042-implement-relu-activation-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-01 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-16 | [solution](problems/0003-reshape-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-11-16 | [solution](problems/0022-sigmoid-activation-function-understanding) |
